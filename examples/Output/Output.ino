@@ -1,6 +1,6 @@
 #include <RobotClass_PCA9535.h>
 
-PCA9535 pca;
+RobotClass_PCA9535 pca;
 
 void setup() {
     pca.begin(0x27);
