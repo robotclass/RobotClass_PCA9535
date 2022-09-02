@@ -1,0 +1,7 @@
+# Syntax Coloring Map For RobotClass PCA9535
+
+# Datatypes (KEYWORD1)
+RobotClass_PCA9535	KEYWORD1
+
+# Constants (LITERAL1)
+INVERTED	LITERAL1
